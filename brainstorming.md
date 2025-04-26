@@ -1,18 +1,23 @@
-# Brainstorming for PulsePoint 📅💥
+# Brainstorming App Ideas
 
-## Problem Statement:
-Students often struggle to keep track of academic and social responsibilities...
+## Initial Ideas:
+- StudySync: A task management app for students, integrating tasks, calendar, and motivational quotes.
+- FocusFlow: Pomodoro-style productivity app with timers and focus stats.
+- GreenGo MobileWash: Eco-friendly mobile car wash scheduling app.
+- PulseCheck: Wellness app tracking mood, heart rate, and relaxation techniques.
 
-## Goal:
-Help students manage their campus life in one app: schedules, events, maps, and more.
+## Final Idea Chosen:
+- StudySync
 
-## Feature Ideas:
-- Class schedule view with reminders
-- Assignment & exam tracker
-- Campus event discovery + RSVP
-- Campus map integration
-- Dining hall menus
+## Features:
+- Home Dashboard: Motivational quotes, task stats.
+- Tasks Screen: Add/Delete/Complete tasks with due dates.
+- Calendar View: Visualize task deadlines.
 
-## Target Users:
-- College students (especially freshmen)
-- Graduate Students
+## Final Idea Chosen:
+- StudySync
+
+## Features:
+- Home Dashboard: Motivational quotes, task stats.
+- Tasks Screen: Add/Delete/Complete tasks with due dates.
+- Calendar View: Visualize task deadlines.
